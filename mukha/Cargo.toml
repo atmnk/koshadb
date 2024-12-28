@@ -1,0 +1,7 @@
+[package]
+name = "mukha"
+description = "Command Line Interface for koshadb"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]

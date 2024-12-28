@@ -1,4 +1,6 @@
 [workspace]
 members = [
-    "bindu"
+    "bindu",
+    "duta",
+    "mukha"
 ]

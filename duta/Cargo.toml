@@ -1,6 +1,6 @@
 [package]
-name = "bindu"
-description = "koshadb node"
+name = "duta"
+description = "Client Library for koshadb"
 version = "0.0.1"
 edition = "2021"
 
